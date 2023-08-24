@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../family photos"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "my_family"
+	}
+}
